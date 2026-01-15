@@ -1,0 +1,33 @@
+{
+  
+ "names": ["AC", "CCG", "DDG", "LHA", "WK"],
+
+  
+  "colors": [
+    "#00FF00", 
+    "#0080FF",
+    "#8E8E8E", 
+    "#FF8000",
+    "#FF0000"  
+  ],
+
+  "text_colors": [
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF",
+    "#FFFFFF"
+  ],
+  
+  "conf": [0.35, 0.30, 0.30, 0.25, 0.40],
+  "thickness": [2, 2, 2, 2, 2],
+
+  "font_scales": [0.5,    0.5,    0.5,    0.5,    0.5],
+  "font_thicks": [2,    2,    2,    2,    2],
+
+  "default_conf": 0.25,
+  "default_thickness": 2,
+
+  "font_scale": 0.5,
+  "font_thick": 1
+}
