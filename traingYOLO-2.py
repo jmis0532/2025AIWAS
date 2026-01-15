@@ -1,7 +1,7 @@
 """
 2025/10/10 by Summer Lee 
 所有訓練資料固定放在桌面trainingTEST資料夾
-固定路徑訓練 YOLOv11m（imgsz=960）
+訓練內容 YOLOv11m（imgsz=960）
 - 自動判斷 pt / yaml 與 pretrained 的合理搭配
 - 啟用驗證與早停，穩定輸出 best.pt
 """
@@ -132,3 +132,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
